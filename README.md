@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="font-size: 40px; font-weight: bold;">
   <strong>테스팅 연습 기록</strong>
 </p>  
 테스팅 공부를 하고 기록을 남기기 위한 레퍼지토리 개설
